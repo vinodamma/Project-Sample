@@ -124,3 +124,12 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 ## Acknowledgments
 
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+-   vinod gitpull is used to pull the data
+-git clone is used to bring the data to local 
+- ls -la
+-pwd
+- 
+-To create directory we need to use mkdir filename
+
+
+ 
